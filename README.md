@@ -10,6 +10,5 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ## Run Streamlit App
 ```
 streamlit run dashboard/dashboard.py
-
-[Run Apps](https://m8vzevajm9yvnce3kan7kk.streamlit.app/)
 ```
+### [RUN APPS ✨](https://m8vzevajm9yvnce3kan7kk.streamlit.app/)
