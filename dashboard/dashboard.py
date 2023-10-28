@@ -68,7 +68,7 @@ max_date = all_df["order_purchase_timestamp"].max()
 
 with st.sidebar:
 
-    st.title('PROYEK ANALISIS DATA')
+    st.title('ANALISIS DATA')
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
